@@ -199,6 +199,7 @@ namespace Telekocsi
             Harmadik();
             Negyedik();
             Otodik();
+            Hatodik();
 
             Console.ReadLine();
         }
